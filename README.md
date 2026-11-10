@@ -1,6 +1,7 @@
 # Research Toolkit
 
-A toolkit developed by Alice.
+
+A toolkit developed by Alice and Bob.
 
 ## Features
 
