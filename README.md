@@ -1,6 +1,6 @@
 # Research Toolkit
 
-A simple toolkit for scientific research.
+A toolkit developed by Alice.
 
 ## Features
 
